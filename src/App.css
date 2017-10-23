@@ -12,3 +12,10 @@
 .btn-default{
     background-color: rgb(243, 253, 253);
 }
+/* this was found from a template on stack overflow at https://stackoverflow.com/questions/18424798/twitter-bootstrap-3-how-to-use-media-queries
+*/
+@media (max-width: 991px) {
+    .otherButtons{
+        margin-top: 1.5rem;
+    }
+}

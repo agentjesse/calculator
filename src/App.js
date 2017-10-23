@@ -105,7 +105,7 @@ class App extends Component {
 
               </div>
 
-              <div className='col-md-5'>
+              <div className='otherButtons col-md-5'>
 
                 <div className='btn-group btn-group-justified' role='group'>
 
